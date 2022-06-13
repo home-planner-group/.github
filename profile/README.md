@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🌍 We are from Germany
+💬 Ask me about anything in the founder [Discussions](https://github.com/felixsteinke/felixsteinke/discussions)
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
