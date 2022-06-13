@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 🌍 We are from Germany
-💬 Ask me about anything in the founder [Discussions](https://github.com/felixsteinke/felixsteinke/discussions)
+
+💬 Ask us about anything in the founder [Discussions](https://github.com/felixsteinke/felixsteinke/discussions)
 
 
 
